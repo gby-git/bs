@@ -1,0 +1,92 @@
+{
+	"homes": [
+		{
+			"img": "static/img/house11.jpg",
+			"price": 300,
+			"title": "上海廉价房1",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "单人间",
+			"size": "88",
+			"houseScore": 3.8,
+			"href": "/home12"
+		}, {
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home13"
+		},
+		{
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home12"
+		},
+		{
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home12"
+		},
+		{
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home12"
+		},
+		{
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home12"
+		},
+		{
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home12"
+		},
+		{
+			"img": "static/img/house12.jpg",
+			"price": 200,
+			"title": "上海廉价房2",
+			"city": "上海",
+			"county": "崇明县",
+			"type": "双人间",
+			"size": "78",
+			"houseScore": 4.8,
+			"href": "/home12"
+		}
+	],
+	"error": 0
+}

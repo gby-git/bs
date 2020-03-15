@@ -1,0 +1,147 @@
+{
+
+
+	"orderList": [
+		{
+			"time": {
+				"year": 2017,
+				"month": 8,
+				"day": 3,
+				"hour": 18,
+				"minute": 52
+			},
+			"name": "谭浩强",
+			"title": "上海崇明复古房屋",
+			"img": "/static/img/house11.jpg",
+			"orderNum": 201708030017,
+			"money": 120,
+			"city": "上海",
+			"county": "崇明县",
+			"state": 0
+		}, {
+			"time": {
+				"year": 2017,
+				"month": 8,
+				"day": 3,
+				"hour": 18,
+				"minute": 52
+			},
+			"name": "谭浩强",
+			"title": "上海崇明复古房屋",
+			"img": "/static/img/house12.jpg",
+			"orderNum": 201708030017,
+			"money": 220,
+			"city": "上海",
+			"county": "崇明县",
+			"state": 0
+		}, {
+			"time": {
+				"year": 2017,
+				"month": 8,
+				"day": 3,
+				"hour": 18,
+				"minute": 52
+			},
+			"name": "谭浩强",
+			"title": "上海崇明复古房屋",
+			"img": "/static/img/house13.jpg",
+			"orderNum": 201708030017,
+			"money": 320,
+			"city": "上海",
+			"county": "崇明县",
+			"state": 0
+		}, {
+			"time": {
+				"year": 2017,
+				"month": 8,
+				"day": 3,
+				"hour": 18,
+				"minute": 52
+			},
+			"name": "谭浩强",
+			"title": "上海崇明复古房屋",
+			"img": "/static/img/house14.jpg",
+			"orderNum": 201708030017,
+			"money": 120,
+			"city": "上海",
+			"county": "崇明县",
+			"href": "alibab",
+			"state": 1
+		}, {
+			"time": {
+				"year": 2017,
+				"month": 8,
+				"day": 3,
+				"hour": 18,
+				"minute": 52
+			},
+			"name": "谭浩强",
+			"title": "上海崇明复古房屋",
+			"img": "/static/img/house15.jpg",
+			"orderNum": 201708030017,
+			"money": 220,
+			"city": "上海",
+			"county": "崇明县",
+			"state": 2
+		}
+	],
+	"userInfo": {
+		"head": "/static/img/head.jpg",
+		"name": "美少女",
+		"sex": "男",
+		"email": "3247892347@qq.com",
+		"phone": "15883733321",
+		"email": "258811022@qq.com"
+	},
+	"houseInfo": [
+		{
+			"img": "/static/img/house3.jpg",
+			"name": "爱的小屋",
+			"price": 300,
+			"place": "上海市/崇明县",
+			"type": "单人间",
+			"selled": 0,
+			"id": 2
+		},
+		{
+			"img": "/static/img/house3.jpg",
+			"name": "爱的小屋",
+			"price": 300,
+			"place": "上海市/崇明县",
+			"type": "单人间",
+			"selled": 0,
+			"id": 3
+		}
+	],
+	"customer": [
+		{
+			"img": "/static/img/house3.jpg",
+			"name": "爱的小屋",
+			"price": 300,
+			"place": "上海市/崇明县",
+			"type": "单人间"
+		},
+		{
+			"img": "/static/img/house3.jpg",
+			"name": "爱的小屋",
+			"price": 300,
+			"place": "上海市/崇明县",
+			"type": "单人间"
+		}
+	],
+	"myStory": [
+		{
+			"id": 1,
+			"title": "aaaa",
+			"content": "飞机是20世纪初最重大的发明之一，公认由美国人莱特兄弟发明。他们在1903年12月17日进行的飞行作为“第一次重于空气的航空器进行的受控的持续动力飞行”被国际航空联合会（FAI）所认可，同年他们创办了“莱特飞机公司飞机是20世纪初最重大的发明之一，公认由美国人莱特兄弟发明。他们在1903年12月17日进行的飞行作为“第一次重于空气的航空器进行的受控的持续动力飞行”被国际航空联合会（FAI）所认可，同年他们创办了“莱特飞机公司",
+			"time": "2017-09-08",
+			"imgPath": ["/static/img/story1.jpg","/static/img/story2.jpg","/static/img/story3.jpg","/static/img/story4.jpg"]
+		},{
+			"id": 1,
+			"title": "dddddd",
+			"content": "飞机是20世纪初最重大的发明之一，公认由美国人莱特兄弟发明。他们在1903年12月17日进行的飞行作为“第一次重于空气的航空器进行的受控的持续动力飞行”被国际航空联合会（FAI）所认可，同年他们创办了“莱特飞机公司飞机是20世纪初最重大的发明之一，公认由美国人莱特兄弟发明。他们在1903年12月17日进行的飞行作为“第一次重于空气的航空器进行的受控的持续动力飞行”被国际航空联合会（FAI）所认可，同年他们创办了“莱特飞机公司",
+			"time": "2017-09-08",
+			"imgPath": ["/static/img/story1.jpg","/static/img/story2.jpg","/static/img/story3.jpg","/static/img/story4.jpg"]
+		}
+	]
+}

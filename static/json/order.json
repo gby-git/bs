@@ -1,0 +1,22 @@
+{
+	"img": "static/img/house11.jpg",
+	"price": 300,
+	"title": "上海廉价房1",
+	"city": "上海",
+	"county": "崇明县",
+	"type": "单人间",
+	"size": "88",
+	"homeId": 12,
+	"comeDate": {
+		"year": 2017,
+		"month": 10,
+		"day": 19
+	},
+	"comeWeek": "三",
+	"leaveDate": {
+		"year": 2017,
+		"month": 10,
+		"day": 22
+	},
+	"leaveWeek": "日"
+}

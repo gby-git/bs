@@ -1,0 +1,97 @@
+{
+	"recommend": [
+		{
+			"area": "北京",
+			"home": [
+				{
+					"img": "static/img/house14.jpg",
+					"price": 300,
+					"introduction": "精品海景房/双人间",
+					"houseScore": 3.8,
+					"href": "/home2"
+				}, {
+					"img": "static/img/house15.jpg",
+					"price": 300,
+					"introduction": "精品海景房/双人间",
+					"houseScore": 3.8,
+					"href": "/home3"
+				}
+			]
+		}, {
+			"area": "上海",
+			"home": [
+				{
+					"img": "static/img/house11.jpg",
+					"price": 300,
+					"introduction": "精品海景房/双人间",
+					"houseScore": 3.8,
+					"href": "/home3"
+				}, {
+					"img": "static/img/house12.jpg",
+					"price": 300,
+					"introduction": "精品海景房/双人间",
+					"houseScore": 3.8,
+					"href": "/home3"
+				}
+			]
+		}
+	],
+	"search": {
+		"place": [
+			{
+				"place": "成都",
+				"hot": 1
+			}, {
+				"place": "北京",
+				"hot": 0
+			}
+		],
+		"date": {
+			"year": 2017,
+			"month": 10,
+			"day": 20
+		},
+		"roomType": [
+			"单人间",
+			"双人间"
+		]
+	},
+	"models": [
+		{
+			"model": "首页",
+			"src": "main"
+		}, {
+			"model": "我的故事",
+			"src": "story"
+		}, {
+			"model": "成为房东",
+			"src": "landlord"
+		}, {
+			"model": "我要租房",
+			"src": "rental"
+		}, {
+			"model": "获取帮助",
+			"src": "help"
+		}
+	],
+	"slideImg": [
+		{
+			"src": "./static/img/slide1.jpg"
+		}, {
+			"src": "./static/img/slide2.jpg"
+		}, {
+			"src": "./static/img/slide1.jpg"
+		}, {
+			"src": "./static/img/slide2.jpg"
+		}
+	],
+	"footInfo": {
+		"city": "北京",
+		"location": "北京故宫旁边",
+		"zipCode": "666666",
+		"tel": "111111111",
+		"email": "21312@ewqe.com",
+		"version": "©2017 Development",
+		"keepOnRecord": "公网安备 xxxxxxxxxx号"
+	}
+}

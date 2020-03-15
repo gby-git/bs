@@ -1,0 +1,62 @@
+{
+	"person": {
+		"img": "/static/img/head.jpg",
+		"name": "癞疙宝",
+		"place": "北京",
+		"time": "2017-08-11"
+	},
+	"imgs": [
+		"/static/img/house2.jpg",
+		"/static/img/house3.jpg",
+		"/static/img/house7.jpg"
+	],
+
+	"content": {
+		"title": "古朴的东洋民宿",
+		"paragraph": [
+			"每次旅行，想要融入当地人的居住生活，都离不开AIRBNB。翻了很久很久…这种古老日式住宅一下子吸引住了我们。",
+			"迎接我们的房东DEAN是日美混血的帅哥。并热情的介绍房间内的各个设施和注意事项，通往二楼的楼梯的确有些陡峭，第一次下楼梯甚至有些害怕，慢慢的就习惯了。不过行李是拿不上去的，只能放在一楼。",
+			"虽然是老式住宅，但很干净。而且还配有戴森无尘吸尘器，随时可以吸一吸，就像在自己家一样。",
+			"在民宿中，最吸引我们的当然还是厨房了。在DEAN家，餐具调料应有尽有，完全不用担心保质期，到海鲜市场和超市采购后，自己亲自下厨，烹饪适合自己的口味，厨房里也就充满了家的味道。"
+		]
+	},
+	"zan": 11,
+	"reviewer": [{
+			"head": "/static/img/head.jpg",
+			"name": "癞疙宝",
+			"speak": "今天的天错哦我和哥哥姐姐都出去放风筝了",
+			"time": "4小时前",
+			"replyNum": 5,
+			"zan": 11,
+			"id": 1
+		},
+		{
+			"head": "/static/img/head.jpg",
+			"name": "癞疙宝",
+			"speak": "今天的天错哦我和哥哥姐姐都出去放风筝了",
+			"time": "4小时前",
+			"replyNum": 5,
+			"zan": 11,
+			"id": 1
+		},
+		{
+			"head": "/static/img/head.jpg",
+			"name": "癞疙宝",
+			"speak": "今天的天错哦我和哥哥姐姐都出去放风筝了",
+			"time": "4小时前",
+			"replyNum": 5,
+			"zan": 11,
+			"id": 1
+		},
+		{
+			"head": "/static/img/head.jpg",
+			"name": "癞疙宝",
+			"speak": "今天的天错哦我和哥哥姐姐都出去放风筝了",
+			"time": "4小时前",
+			"replyNum": 5,
+			"zan": 11,
+			"id": 1
+		}]
+		
+	
+}
